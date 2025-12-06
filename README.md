@@ -15,20 +15,21 @@ Luminist is a powerful, SaaS-based AI image editing application that empowers us
 ## 🛠️ Tech Stack
 
 **Frontend**
-- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
-- **Language**: JavaScript / React 19
-- **Styling**: [TailwindCSS](https://tailwindcss.com/) v4, [Shadcn UI](https://ui.shadcn.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Canvas Engine**: [Fabric.js](http://fabricjs.com/) v6
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-Components-000000)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-0055FF)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-Canvas-2c3e50)
 
 **Backend & Data**
-- **Database**: [Convex](https://www.convex.dev/) (Real-time database & backend functions)
-- **Authentication**: [Clerk](https://clerk.com/)
+![Convex](https://img.shields.io/badge/Convex-DB-EF4823)
+![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF)
 
 **Services & Utilities**
-- **Image Processing**: [ImageKit](https://imagekit.io/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Notifications**: Sonner
+![ImageKit](https://img.shields.io/badge/ImageKit-Processing-0055FF)
+![Lucide React](https://img.shields.io/badge/Lucide_React-Icons-F05032)
+![Sonner](https://img.shields.io/badge/Sonner-Toasts-black)
 
 ## 🏁 Getting Started
 
