@@ -17,19 +17,19 @@ Luminist is a powerful, SaaS-based AI image editing application that empowers us
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-Components-000000)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-0055FF)
-![Fabric.js](https://img.shields.io/badge/Fabric.js-Canvas-2c3e50)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-06B6D4)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-Components-2563EB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-CC6699)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-Canvas-2ECC71)
 
 **Backend & Data**
-![Convex](https://img.shields.io/badge/Convex-DB-EF4823)
-![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF)
+![Convex](https://img.shields.io/badge/Convex-DB-F59E0B)
+![Clerk](https://img.shields.io/badge/Clerk-Auth-7C3AED)
 
 **Services & Utilities**
-![ImageKit](https://img.shields.io/badge/ImageKit-Processing-0055FF)
-![Lucide React](https://img.shields.io/badge/Lucide_React-Icons-F05032)
-![Sonner](https://img.shields.io/badge/Sonner-Toasts-black)
+![ImageKit](https://img.shields.io/badge/ImageKit-Processing-3B82F6)
+![Lucide React](https://img.shields.io/badge/Lucide_React-Icons-F43F5E)
+![Sonner](https://img.shields.io/badge/Sonner-Toasts-F97316)
 
 ## 🏁 Getting Started
 
@@ -105,4 +105,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
